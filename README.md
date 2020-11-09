@@ -18,7 +18,7 @@ We can make this thing live as well with a bit of customization.
 # How it works
 Simple.py will contains all the code. You have to just run this to make everything works. You can change the input video here
 ```python
-video_src = "../video_data/car.mp4"#0
+video_src = "/video_data/car.mp4"#0
 ```
 
 # Direcotry
