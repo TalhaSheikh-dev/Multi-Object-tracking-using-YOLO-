@@ -6,7 +6,7 @@ respective category and its id. We will use YOLO v3, a pretrained model to the t
 We can make this thing live as well with a bit of customization. 
 
 # Output
-
+![](https://github.com/TalhaSheikh-dev/Multi-Object-tracking-using-YOLO-/blob/main/images/predict.PNG)
 # Requirements
 - Opencv
 - collections
@@ -21,4 +21,4 @@ Simple.py will contains all the code. You have to just run this to make everythi
 video_src = "/video_data/car.mp4"#0
 ```
 
-# Direcotry
+
