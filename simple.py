@@ -94,9 +94,9 @@ class Tracker:
         return self.objects
     
 
-yolomodel = {"config_path":"/yolo_weights/yolov3.cfg",
-              "model_weights_path":"yolo_weights/yolov3.weights",
-              "coco_names":"/yolo_weights/coco.names",
+yolomodel = {"config_path":"/weights/yolov3.cfg",
+              "model_weights_path":"/weights/yolov3.weights",
+              "coco_names":"/weights/coco.names",
               "confidence_threshold": 0.5,
               "threshold":0.3
              }
