@@ -14,6 +14,8 @@ We can make this thing live as well with a bit of customization.
 
 # Download
  Download the YOLO v3 weights from here and place it in the folder YOLO_weights
+ You can also download the full predicted video from here as well
+ https://drive.google.com/drive/folders/1iCaaXgbk0eI1aVENPycERkQ7ibi69gYr?usp=sharing
 
 # How it works
 Simple.py will contains all the code. You have to just run this to make everything works. You can change the input video here
